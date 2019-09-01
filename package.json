@@ -1,6 +1,6 @@
 {
   "name": "react-native-app-rename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/cli.js",
   "repository": "git@github.com:dzek69/react-native-app-rename.git",
   "author": "Jacek Nowacki",

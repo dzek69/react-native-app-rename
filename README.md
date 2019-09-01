@@ -9,8 +9,8 @@ potential-future versions with iOS support will work as expected. Feel free to o
 
 1) Install globally or use with `npx`.
 2) Change working directory to your app directory where package.json is placed
-3a) if installed globally use `rn-rename` or `react-native-app-rename`
-3b) if you're gonna use npx run `npx react-native-app-rename`
+    1) if installed globally use `rn-rename` or `react-native-app-rename`
+    2) if you're gonna use npx run `npx react-native-app-rename`
 4) Answer some questions
 5) Enjoy your app with a brand new name and ID!
 
